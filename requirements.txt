@@ -1,5 +1,9 @@
 pymongo
 pandas
 numpy
+scikit-learn
+xgboost
+
+
 
 -e .
